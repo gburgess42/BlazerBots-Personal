@@ -1,5 +1,6 @@
 # BlazerBots-Personal
 Personal Repository for BlazerBots related work.
+
 This is basically abandoned, but it was primarily created to act as a personal offshoot of the FRC 2020 Infinite Recharge game 
 robot code created by the 3807 Overland Blazerbots robotics team. Aka the code that I helped create while I was a member of 3807.
 I really only made this because I wanted to be able to continue editing/planning/reading/whatever the robot code even outside of
